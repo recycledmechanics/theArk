@@ -1,5 +1,5 @@
 //*******************************************************************************
-//Programmer's Name: Destiny Jefferson
+//Programmer's Name: recycledmechanics
 //Date: February 16, 2022
 //Program Title: Noah's Ark Inventory Application
 //Program Description: This program should be able to (a) prompt the user for
